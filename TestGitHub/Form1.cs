@@ -21,5 +21,10 @@ namespace TestGitHub
         {
             MessageBox.Show("eewqweewwq");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Dau cong ne!");
+        }
     }
 }
