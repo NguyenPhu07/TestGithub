@@ -26,5 +26,10 @@ namespace TestGitHub
         {
             MessageBox.Show("Dau cong ne!");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Xu ly tron nhanh cach 2");
+        }
     }
 }
